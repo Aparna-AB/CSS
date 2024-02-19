@@ -1,0 +1,308 @@
+body {
+    color: white;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: medium;
+    font-style: normal;
+
+}
+
+.container {
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    top: 0px;
+}
+
+.container1 {
+    padding-top: 70px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.container1:hover {
+    cursor: pointer;
+}
+
+.container>.fa-solid {
+    height: 40px;
+    width: 30px;
+    position: absolute;
+    right: 200px;
+    top: 30px;
+    font-weight: bolder;
+    color: rgb(49, 46, 46);
+}
+
+.container>.fa-regular {
+    height: 40px;
+    width: 30px;
+    position: absolute;
+    right: 150px;
+    top: 30px;
+    color: rgb(49, 46, 46);
+}
+
+.container>.fa-circle-user {
+    height: 40px;
+    width: 30px;
+    position: absolute;
+    right: 100px;
+    top: 30px;
+    color: rgb(49, 46, 46);
+}
+
+.container>i:hover {
+    cursor: pointer;
+}
+
+.c1 {
+    height: 50px;
+    width: 220px;
+    margin-left: 20px;
+}
+
+.c2 {
+    color: grey;
+    padding-left: 30px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+.c2:hover {
+    color: rgb(0, 128, 41);
+    text-decoration: underline;
+
+}
+
+.c3 {
+    color: grey;
+    padding-left: 30px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+.c3:hover {
+    color: rgb(0, 128, 41);
+    text-decoration: underline;
+
+}
+
+.c4 {
+    color: grey;
+    padding-left: 30px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+.c4:hover {
+    color: rgb(0, 128, 41);
+    text-decoration: underline;
+
+}
+
+.c5 {
+    color: grey;
+    padding-left: 30px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+.c5:hover {
+    color: rgb(0, 128, 41);
+    text-decoration: underline;
+
+}
+
+.c6 {
+    color: grey;
+    padding-left: 30px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+.c6:hover {
+    color: rgb(0, 128, 41);
+    text-decoration: underline;
+
+}
+
+.ch1 {
+    border: 1px solid gray;
+    border-radius: 22px;
+    height: 30px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 60px;
+    padding-top: 8px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.ch1:hover {
+    background-color: rgb(212, 236, 220);
+    border: none;
+}
+
+.fa-desktop {
+    height: 20px;
+    width: 20px;
+    justify-content: center;
+    text-align: center;
+    color: grey;
+}
+
+.ch2 {
+    border: 1px solid gray;
+    border-radius: 22px;
+    height: 30px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-top: 8px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.ch2:hover {
+    background-color: rgb(212, 236, 220);
+    border: none;
+}
+
+.fa-mobile {
+    height: 20px;
+    width: 20px;
+    color: grey;
+}
+
+.ch3 {
+    border: 1px solid gray;
+    border-radius: 22px;
+    height: 30px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-top: 8px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.ch3:hover {
+    background-color: rgb(212, 236, 220);
+    border: none;
+}
+
+.fa-tablet {
+    height: 20px;
+    width: 20px;
+    color: grey;
+}
+
+.ch4 {
+    border: 1px solid gray;
+    border-radius: 22px;
+    height: 30px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-top: 8px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.ch4:hover {
+    background-color: rgb(212, 236, 220);
+    border: none;
+}
+
+.fa-tv {
+    height: 20px;
+    width: 20px;
+    color: grey;
+}
+
+.ch5 {
+    border: 1px solid gray;
+    border-radius: 22px;
+    height: 30px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-top: 8px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.ch5:hover {
+    background-color: rgb(212, 236, 220);
+    border: none;
+}
+
+.fa-solid {
+    height: 20px;
+    width: 20px;
+    color: grey;
+}
+
+.ch6 {
+    border: 1px solid gray;
+    border-radius: 22px;
+    height: 30px;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding-top: 8px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.ch6:hover {
+    background-color: rgb(212, 236, 220);
+    border: none;
+}
+
+.fa-watch {
+    height: 20px;
+    width: 20px;
+    color: grey;
+}
+
+.img1 {
+    height: 80px;
+    width: 80px;
+    margin-left: 50px;
+    border-radius: 18px;
+    margin-top: 20px;
+}
+
+/* grid1{
+    display: grip;
+    justify-content: flex-start;
+} */
+
+.l1 {
+    border: 1px solid rgb(213, 212, 212);
+    width: 90%;
+    margin-left: 70px;
+}
+
+.img2 {
+    width: 1300px;
+    height: 450px;
+    margin-left: 90px;
+    border-radius: 20px;
+}
